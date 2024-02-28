@@ -1,0 +1,22 @@
+.class
+{
+background-image: url("https://i.pinimg.com/564x/8a/44/58/8a44584e12d3b84dfa3ccf419a017f3c.jpg");
+
+#fruit
+{
+   display: flex;
+   justify-content: space-between;
+}
+#fruit1
+{
+   display: flex;
+   justify-content: space-between;
+}
+#fruit2
+{
+   display: flex;
+   justify-content: space-between;
+}
+
+
+}
